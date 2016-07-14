@@ -19,7 +19,7 @@ Configure a new Scala project with the following dependencies:
  
 This driver does not depend on the Cassandra server code.
 
- - For a detailed dependency list, see [project/CassandraSparkBuild.scala](../project/CassandraSparkBuild.scala)
+ - For a detailed dependency list, see [project/CassandraSparkBuild.scala](https://github.com/datastax/spark-cassandra-connector/blob/master/project/SparkCassandraConnectorBuild.scala)
  - For dependency versions, see [project/Versions.scala](../project/Versions.scala)
 
 Add the `spark-cassandra-connector` jar and its dependency jars to the following classpaths.
